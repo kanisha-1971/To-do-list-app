@@ -7,7 +7,7 @@ Task Management App based on Modern Android Application tech-stacks and MVVM arc
 <br>
 
 <p align="center">
-<img src="" width=700>
+<img src="https://github.com/kanisha-1971/To-do-list-app/blob/main/143182039-50aeacc2-b162-4027-9d6f-fa6728a4ed0e.png" width=700>
 </p>
 
 <img src="" align="right" width="30%"/>
