@@ -22,3 +22,9 @@ Task Management App based on Modern Android Application tech-stacks and MVVM arc
   - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
   - [Room Database](https://developer.android.com/training/data-storage/room) - Room is an android library which is an ORM which wraps android's native SQLite database.
 - [Dagger-Hilt](https://dagger.dev/hilt/) - Standard library to incorporate Dagger dependency injection into an Android application.
+
+
+## Application Install
+You can Install and test the app from below 👇
+
+[![Todo App](https://img.shields.io/badge/ToDo_App-APK-silver.svg?style=for-the-badge&logo=android)]()
