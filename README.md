@@ -10,7 +10,7 @@ Task Management App based on Modern Android Application tech-stacks and MVVM arc
 <img src="https://github.com/kanisha-1971/To-do-list-app/blob/main/143182039-50aeacc2-b162-4027-9d6f-fa6728a4ed0e.png" width=700>
 </p>
 
-<img src="" align="right" width="30%"/>
+<img src="https://github.com/kanisha-1971/To-do-list-app/blob/main/143182201-a9179797-359a-4f7f-880c-7fe8082a9f0c%20(1).gif" align="right" width="30%"/>
 
 ## Techs Used 💻
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
